@@ -1,2 +1,0 @@
-console.log("Hello, World! i have created a javascript file and setup workspace to chk if i m dircetly able to commit the code");
-// This is a simple JavaScript file that prints a greeting to the console.
